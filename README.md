@@ -27,6 +27,6 @@ THEN I find a concise, descriptive title
 
 The following image demonstrates the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-horiseon-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-horiseon-demo.png)
 
 ---
