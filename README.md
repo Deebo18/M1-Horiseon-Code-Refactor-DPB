@@ -23,10 +23,15 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Assets
+### Assets
 
 The following image demonstrates the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-horiseon-demo.png)
 
----
+### Installation
+The project was uploaded to [GitHub](https://github.com/) at the following repository:
+[https://github.com/Deebo18/M1-Horiseon-Code-Refactor-DPB](https://github.com/Deebo18/M1-Horiseon-Code-Refactor-DPB)
+
+You can access the deployed application with the GitHup Pages link:
+[https://deebo18.github.io/M1-Horiseon-Code-Refactor-DPB/](https://deebo18.github.io/M1-Horiseon-Code-Refactor-DPB/)
